@@ -23,6 +23,8 @@ I'm Andrey Ponomarev, a graduate of St. Petersburg and Peter the [Great St. Pete
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DandyBoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
