@@ -1,6 +1,6 @@
 ## 👋 Hi! 
 
-I'm Andrey Ponomarev, a graduate of St. Petersburg and Peter the [Great St. Petersburg Polytechnic University](https://english.spbstu.ru/) (2004, master's degree).
+I'm Andrey Ponomarev, a graduate of St. Petersburg and Peter the [Great St. Petersburg Polytechnic University](https://english.spbstu.ru/) (master's degree).
 
 + I'm studying at [Yandex Practicum](https://practicum.yandex.ru/) on "Python backend developer";
 + Languages: Russian, English (B2);
