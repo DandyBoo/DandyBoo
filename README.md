@@ -9,7 +9,7 @@ I'm Andrey Ponomarev, a graduate of St. Petersburg and Peter the [Great St. Pete
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DandyRU)
 <br>
 <br>
-<b> [My email] (ponomarev.a.p@gmail.com) </b>
+<b> [My email](ponomarev.a.p@gmail.com) </b>
 
 ## 💻 Technologies
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat&logo=Python)
