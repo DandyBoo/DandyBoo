@@ -6,7 +6,8 @@ I'm Andrey Ponomarev, a graduate of St. Petersburg and Peter the [Great St. Pete
 + My Languages: Russian, English (B2);
 
 ## 📫 Contacts<br>
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DandyRU)
+[![Telegram Badge](https://img.shields.io/badge/-@DandyRU-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/DandyRU)
+[![Telegram Badge](https://img.shields.io/badge/-@Andrey_Ponomarev-0088CC?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andreypon/)
 <br>
 <br>
 <b> My email <ponomarev.a.p@gmail.com>  </b>
