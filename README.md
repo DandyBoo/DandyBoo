@@ -5,7 +5,7 @@ I'm Andrey Ponomarev, a graduate of St. Petersburg and Peter the [Great St. Pete
 + I'm studying at [Yandex Practicum](https://practicum.yandex.ru/) on "Python backend developer";
 + My Languages: Russian, English (B2);
 
-## 📫 Contact with me<br>
+## 📫 Contacts<br>
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DandyRU)
 <br>
 <br>
